@@ -23,9 +23,13 @@ I am determined to master the *web-developer* profession and strive to become a 
 ## **My stack and tools**
 
 <div>
-    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/html5.svg" title="HTML5" alt="HTML" height="40"/>&nbsp;<br/>portfolio/master/assets/javascript.svg" title="JS" alt="JS" height="40"/>&nbsp;<br/>
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/html5.svg" title="HTML5" alt="HTML" height="40"/>&nbsp;<br/>      
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/css3.svg"  title="CSS3" alt="CSS" height="40"/>&nbsp;<br/>
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/markdown-original.svg" title="Markdown" alt="markdown" height="40"/>&nbsp;<br/>
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/javascript.svg" title="JS" alt="JS" height="40"/>&nbsp;<br/>
     <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/photoshop-line.svg" title="Photoshop" alt="photoshop" height="40"/>&nbsp;<br/>
-    <img src="http<br/>
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/figma-original.svg" title="Figma" alt="Figma" height="40"/>&nbsp;<br/>
+    <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40"/>&nbsp;<br/>
     <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/git-original-wordmark.svg" title="Git" alt="Git" height="40"/>&nbsp;<br/>
     <img src="https://raw.githubusercontent.com/kamelot88/portfolio/master/assets/github.svg" title="Github"  alt="Github" width="40"/>&nbsp;<br/>
 </div>  
