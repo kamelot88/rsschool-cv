@@ -35,3 +35,38 @@ I am determined to master the *web-developer* profession and strive to become a 
 </div>  
 
 ***
+
+## **Preferences and Experience**
+
+ Successfully completed the layout courses at the **IMT Academy** in Dnipro, Ukraine. I honed my existing skills on the online platforms [HTML Academy](https://htmlacademy.ru/ ) and [learn.javascript](https://learn.javascript.ru). Taking a course on the online educational platform [Udemy](https://www.udemy.com/) "Full course in JavaScript + React - from scratch to results" from Ivan Petrichenko.
+ I have experience in creating one-page and multi-page sites and even web applications, which are presented on my [portfolio site](https://kamelot88.github.io/portfolio).  
+
+***
+## **Code example**
+
+
+    class MenuDish {
+    constructor(title, descr, price, parendSelector) {
+        this.title = title;
+        this.descr = descr;
+        this.price = price;
+        this.parend = document.querySelector(parendSelector);
+    }
+    render() {
+        const element = document.createElement('div');
+        element.classList.add('item-wrap-dish');
+        element.innerHTML = `
+            <h3 class="item-title">${this.title}</h3>
+            <div class="item-content-wrap main_flex flex__jcontent_between">
+                <p class="item-content">${this.descr}</p>
+                <div class="item-price-order-wrap main_flex_column flex__jcontent_between">
+                    <p class="item-price">${this.price}</p>
+                    <button data-order='add-order'>zamówić</button>
+                </div>
+            </div>
+        `;
+        this.parend.append(element);
+    }
+}  
+
+***
