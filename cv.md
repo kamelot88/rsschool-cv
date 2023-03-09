@@ -70,3 +70,17 @@ I am determined to master the *web-developer* profession and strive to become a 
 }  
 
 ***
+
+## 🌐 **Knowledge of languages :**
++ Ukrainian - *native language*
++ Russian - *second native language*
++ English - *basic, entry level*  
+
+***
+## **Plans for the near future**
+- [x] Develop constantly;  
+- [x] Learn new;  
+- [x] Start studying at RS SCHOOL;  
+- [ ] Learn English at level B2;  
+- [ ] Become a popular web develope;  
+- [ ] Complete your studies at RS School;
